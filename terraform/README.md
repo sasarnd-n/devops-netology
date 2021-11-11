@@ -29,4 +29,5 @@ override.tf.json  - те же файлы, с названием override.tf.json
 
 .terraformrc  - файлы конфигурации, с расширением .terraformrc  
 terraform.rc  - файлы конфигурации, с названием terraform.rc
+
 ---------------------------------------------------
