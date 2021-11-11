@@ -7,9 +7,9 @@
 
 Помощь по команде git --help
 
-![Помощь по команде git --help](img/git.png)
+![Помощь по команде git --help](img/git.PNG)
 
 Помощь по команде git add --help
 
-![Помощь по команде git add --help](img/git-add.png)
+![Помощь по команде git add --help](img/git-add.PNG)
 
